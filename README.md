@@ -1,2 +1,2 @@
 # reactApps
- learning raect
+ learning react
